@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Medical_facilities",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Reopened orthopedic center", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 36.8169236, 36.2292843, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Launched Surgical Outpatient Clinic", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 40.1755434, -10.3113139, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Opening of Gynecological Office Laboratory", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 43.3834694, 36.2743491, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Established Feeding Center at Thiaroye Health Center\n", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -17.3777968, 14.7447473, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Point 5", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 34.9743731, -15.6815833, 0.0 ] } }
+]
+}

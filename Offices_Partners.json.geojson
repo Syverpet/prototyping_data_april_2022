@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "Offices_Partners",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Polish Medical Mission Head Quarters\n", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 19.9335884, 50.0673197, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Deus Caritas Est Office\n", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -72.3589283, 7.7018354, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "St. Walburg’s Hospital", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 39.2970851, -10.3311178, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Ursaline Sisters\n", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -17.3701557, 14.7577341, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Association Nationale des Postes de Sante Catholiques (ANPSCS)\n", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -17.4439124, 14.673521, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Terre des Hommes Italy Office\n", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 35.9303716, 31.956375, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "St. Joseph’s Rural Health Centre", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 30.8174766, -14.5609674, 0.0 ] } }
+]
+}

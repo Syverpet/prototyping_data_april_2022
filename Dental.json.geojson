@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Dental",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Dental Office Established and Supported \n", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 43.892186, 36.4716808, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Dental Clinic Established and Supported\n", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 44.0391603, 35.983787, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Dental Examinations and Fluoridation in School \n", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 95.168855, 16.6040014, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Dental Examinations and Fluoridation in School ", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 95.1762364, 16.6038369, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Dental Examinations and Fluoridation in School ", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 95.1679966, 16.5987372, 0.0 ] } }
+]
+}
