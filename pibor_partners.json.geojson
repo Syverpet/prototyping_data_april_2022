@@ -3,14 +3,14 @@
 "name": "pibor_partners",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "Name": "IOM_Humanitarian_Hub", "icon": null, "Type": "P1", "logo": null }, "geometry": { "type": "Point", "coordinates": [ 33.1341628, 6.795788, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "MSF_Field_Hospital\n", "icon": null, "Type": "P1", "logo": null }, "geometry": { "type": "Point", "coordinates": [ 33.1354127, 6.7955216, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Peace_Corps\n", "icon": null, "Type": "P1", "logo": null }, "geometry": { "type": "Point", "coordinates": [ 33.1341548, 6.7963446, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "SALT", "icon": null, "Type": "P1", "logo": null }, "geometry": { "type": "Point", "coordinates": [ 33.1313733, 6.7975458, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "DRC", "icon": null, "Type": "P1", "logo": null }, "geometry": { "type": "Point", "coordinates": [ 33.1260483, 6.7965568, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Norwegian_Church_Aid\n", "icon": null, "Type": "P1", "logo": null }, "geometry": { "type": "Point", "coordinates": [ 32.9114106, 6.6338265, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "War_Child \n", "icon": null, "Type": "P1", "logo": null }, "geometry": { "type": "Point", "coordinates": [ 32.9098656, 6.6361284, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "UNMISS", "icon": null, "Type": "P1", "logo": "https:\/\/external-content.duckduckgo.com\/iu\/?u=https%3A%2F%2Fcdn-network.chimpreports.com%2Fwp-content%2Fuploads%2F2016%2F07%2F01-24-2014South_Sudan.jpg&f=1&nofb=1" }, "geometry": { "type": "Point", "coordinates": [ 33.12429, 6.7972773, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Danish_Church_Aid_Mine_Action\n", "icon": null, "Type": "P1", "logo": null }, "geometry": { "type": "Point", "coordinates": [ 33.1330555, 6.8107537, 0.0 ] } }
+{ "type": "Feature", "properties": { "Name": "IOM_Humanitarian_Hub", "icon": "IOM", "Type": "P1", "logo": null }, "geometry": { "type": "Point", "coordinates": [ 33.1341628, 6.795788, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "MSF_Field_Hospital\n", "icon": "MSF", "Type": "P1", "logo": null }, "geometry": { "type": "Point", "coordinates": [ 33.1354127, 6.7955216, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Peace_Corps\n", "icon": "Peace_corps", "Type": "P1", "logo": null }, "geometry": { "type": "Point", "coordinates": [ 33.1341548, 6.7963446, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "SALT", "icon": "SALT", "Type": "P1", "logo": null }, "geometry": { "type": "Point", "coordinates": [ 33.1313733, 6.7975458, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "DRC", "icon": "DRC", "Type": "P1", "logo": null }, "geometry": { "type": "Point", "coordinates": [ 33.1260483, 6.7965568, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Norwegian_Church_Aid\n", "icon": "NorwegianCA", "Type": "P1", "logo": null }, "geometry": { "type": "Point", "coordinates": [ 32.9114106, 6.6338265, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "War_Child \n", "icon": "war_child", "Type": "P1", "logo": null }, "geometry": { "type": "Point", "coordinates": [ 32.9098656, 6.6361284, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "UNMISS", "icon": "UNMISS", "Type": "P1", "logo": "https:\/\/external-content.duckduckgo.com\/iu\/?u=https%3A%2F%2Fcdn-network.chimpreports.com%2Fwp-content%2Fuploads%2F2016%2F07%2F01-24-2014South_Sudan.jpg&f=1&nofb=1" }, "geometry": { "type": "Point", "coordinates": [ 33.12429, 6.7972773, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Danish_Church_Aid_Mine_Action\n", "icon": "DCA", "Type": "P1", "logo": null }, "geometry": { "type": "Point", "coordinates": [ 33.1330555, 6.8107537, 0.0 ] } }
 ]
 }
